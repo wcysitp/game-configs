@@ -1,1 +1,13 @@
-﻿{"isEventActive": false, "eventStartDate": "2026-05-01", "eventEndDate": "2026-08-31"}
+{
+  "isEventActive": true,
+  "eventStartDate": "2026-05-01",
+  "eventEndDate": "2026-06-30",
+  "platforms": {
+    "rustore": false,
+    "ok": false,
+    "vk": true,
+    "yandex": true,
+    "googleplay": true,
+    "local": true
+  }
+}
