@@ -3,7 +3,7 @@
   "eventStartDate": "2026-05-01",
   "eventEndDate": "2026-06-30",
   "platforms": {
-    "rustore": false,
+    "rustore": true,
     "ok": false,
     "vk": false,
     "yandex": false,
