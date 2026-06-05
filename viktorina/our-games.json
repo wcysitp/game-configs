@@ -8,7 +8,7 @@
   },
   "ourGames": {
     "enabled": true,
-    "defaultLocales": [],
+    "defaultLocales": ["ru"],
     "maxItems": 24,
     "gameLocales": {}
   }
