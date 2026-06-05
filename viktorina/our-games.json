@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-05",
+  "_instructions": {
+    "defaultLocales": "Locales where every game returned by Yandex getAllGames can be shown.",
+    "gameLocales": "Map a Yandex appID, numeric URL suffix, or /games/app/ token to locales where that game is truly localized."
+  },
+  "ourGames": {
+    "enabled": true,
+    "defaultLocales": [
+      "ru",
+      "en",
+      "de",
+      "es",
+      "fr",
+      "pt",
+      "tr",
+      "id"
+    ],
+    "maxItems": 24,
+    "gameLocales": {}
+  }
+}
