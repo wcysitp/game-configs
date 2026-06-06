@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-06",
+  "_instructions": {
+    "defaultLocales": "Locales where EVERY game returned by getAllGames may show. We keep ['ru'] because all our games are localized in Russian, so they always show to RU players. Keep EMPTY only for strict per-game matching.",
+    "gameLocales": "Key = Yandex appID (the number in /games/app/NUMBER), numeric URL suffix, or /games/app/ token. Value = locales that game is ACTUALLY localized in. A game shows to a non-RU player ONLY if the player's language is in this list. If nothing matches the player's language, the whole 'Other games' block is hidden.",
+    "example": { "123456": ["ru"], "234567": ["ru", "en", "de"] }
+  },
+  "ourGames": {
+    "enabled": true,
+    "defaultLocales": ["ru"],
+    "maxItems": 24,
+    "gameLocales": {}
+  }
+}
