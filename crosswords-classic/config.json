@@ -1,0 +1,21 @@
+{
+  "adFirstLevel": 3,
+  "adInitialCooldownSec": 180,
+  "adRepeatCooldownSec": 90,
+  "interstitialsEnabled": true,
+
+  "hintsStart": 20,
+
+  "reviewEnabled": true,
+  "reviewMinSolved": 2,
+  "reviewCooldownDays": 5,
+
+  "updateCheckEnabled": true,
+
+  "packKindsEnabled": {
+    "main": true,
+    "scramble": true,
+    "gaps": true,
+    "association": true
+  }
+}
