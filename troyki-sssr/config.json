@@ -1,0 +1,15 @@
+{
+  "interstitialsEnabled": true,
+  "interstitialCooldownSec": 60,
+  "startingCoins": 50,
+  "boosterPrices": {
+    "undo": 25,
+    "hint": 30,
+    "remove3": 60
+  },
+  "rewardedEnabled": true,
+
+  "otherGames": {
+    "order": []
+  }
+}

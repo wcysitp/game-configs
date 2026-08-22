@@ -1,0 +1,10 @@
+{
+  "interstitialsEnabled": true,
+  "interstitialCooldownSec": 60,
+  "hintsPerGame": 3,
+  "rewardedEnabled": true,
+
+  "otherGames": {
+    "order": []
+  }
+}
