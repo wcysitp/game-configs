@@ -2,7 +2,7 @@
   "adFirstLevel": 3,
   "adInitialCooldownSec": 180,
   "adRepeatCooldownSec": 90,
-  "interstitialsEnabled": true,
+  "interstitialsEnabled": false,
 
   "hintsStart": 20,
 
